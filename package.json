@@ -1,0 +1,25 @@
+{
+  "name": "finance-api-v2",
+  "version": "1.0.0",
+  "description": "PT: API de Sistema Financeiro para portfólio. EN: Financial System API for portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEU_USUARIO/finance-api-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SEU_USUARIO/finance-api-v2/issues"
+  },
+  "homepage": "https://github.com/SEU_USUARIO/finance-api-v2#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
